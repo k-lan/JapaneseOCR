@@ -39,7 +39,7 @@ Icon credit to Mina
 ### For Python users:
 Run the application:
 ```
-python ocr_app.py
+python main
 ```
 Press `Ctrl+P` to draw a rectangle over the text you want to OCR.
 The text will be automatically copied to your clipboard.
